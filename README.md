@@ -24,9 +24,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shuyu0423&show_icons=true&theme=github&hide_border=true&bg_color=ffffff" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuyu0423&layout=compact&theme=github&hide_border=true&bg_color=ffffff" width="38%"/>
+![Followers](https://img.shields.io/github/followers/Shuyu0423?style=social)
+![Stars](https://img.shields.io/github/stars/Shuyu0423?style=social)
+![Repos](https://img.shields.io/github/repo-count/Shuyu0423?style=flat-square&label=repositories)
 
 </div>
 
