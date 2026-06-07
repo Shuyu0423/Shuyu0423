@@ -1,8 +1,8 @@
-# Hi there, I'm Shuyu 👋
+# Hi there, I'm Shuyu0423 👋
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shuyu&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Shuyu0423&color=blue&style=flat-square)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![Shuyu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shuyu&theme=github&hide_border=true&bg_color=ffffff&line=0366d6&point=0366d6&color=0366d6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shuyu0423's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shuyu0423&theme=github&hide_border=true&bg_color=ffffff&line=0366d6&point=0366d6&color=0366d6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -24,9 +24,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shuyu&show_icons=true&theme=github&hide_border=true&bg_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shuyu0423&show_icons=true&theme=github&hide_border=true&bg_color=ffffff" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuyu&layout=compact&theme=github&hide_border=true&bg_color=ffffff" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuyu0423&layout=compact&theme=github&hide_border=true&bg_color=ffffff" width="38%"/>
 
 </div>
 
@@ -45,6 +45,6 @@
 
 <div align="center">
 
-⭐️ From [Shuyu](https://github.com/Shuyu)
+⭐️ From [Shuyu0423](https://github.com/Shuyu0423)
 
 </div>
