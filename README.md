@@ -25,8 +25,6 @@
 <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/Shuyu0423?style=social)
-![Stars](https://img.shields.io/github/stars/Shuyu0423?style=social)
-![Repos](https://img.shields.io/github/repo-count/Shuyu0423?style=flat-square&label=repositories)
 
 </div>
 
